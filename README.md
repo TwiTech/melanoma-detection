@@ -81,6 +81,7 @@ Grad-CAM was used to visualise model decision-making.
 - Some cases show attention to artefacts (e.g., skin texture or markings)
 
 This helps assess model reliability and transparency.
+<img width="831" height="293" alt="image" src="https://github.com/user-attachments/assets/072f73bf-2aba-4c2e-b575-ef755923a998" />
 
 ---
 
