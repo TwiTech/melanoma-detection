@@ -13,6 +13,7 @@ The dataset used is the **ISIC 2017 dermoscopic image dataset**, structured as:
 - **Training set**: Balanced (Melanoma vs Other)
 - **Validation set**: Balanced
 - **Test set**: Imbalanced (fewer melanoma cases)
+<img width="580" height="435" alt="image" src="https://github.com/user-attachments/assets/83413333-5427-4893-8415-71e112f6adaa" />
 
 > Note: The dataset is not included in this repository due to size and licensing.  
 
